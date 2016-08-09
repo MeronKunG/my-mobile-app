@@ -3,8 +3,7 @@
 
 ## ทดสอบ
 * Local Notifacation
-* Push Notification
- 
+
 ## สร้างโดย
 
 [วรากร บำรุงสุข](https://www.facebook.com/warakorn.bomrungsuke)
